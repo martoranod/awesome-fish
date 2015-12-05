@@ -19,6 +19,8 @@ A curated list of awesome fish frameworks, tools, guides and other stuff inspire
 * [the most colorful fish shell prompt](https://github.com/er0/lolfish)
 * [A Fish wrapper for Ian Bicking's virtualenv, based loosely on Doug Hellman's virtualenvwrapper for Bash](https://github.com/adambrenecki/virtualfish)
 * [Shortcut functions that simplify usage of xclip in Fish Shell](https://github.com/szpak/fish-xclip-enhancer)
+* [Shark: A fish port of spark ▂▃▇▃▂▃▁](https://github.com/bucaran/shark)
+* [JSON parser in fishshell](https://github.com/bucaran/jon)
 * [**Add item to list...**](https://github.com/bucaran/awesome-fish/fork)
 
 ## Contributing
