@@ -7,8 +7,10 @@ A curated list of awesome fish frameworks, tools, guides and other stuff inspire
 
 * [The Fishshell Framework](https://github.com/oh-my-fish/oh-my-fish)
 * [A minimalist package manager for fish shell](https://github.com/tuvistavie/fundle)
-* [Yet Another Fish Framework](https://github.com/wa/wahoo)
+
+* [TAP producer and test harness for fish](https://github.com/fisherman/fishtape)
 * [Completions, code snippets helping you to get even more out of the amazing Fish shell](https://github.com/zmalltalker/fish-nuggets)
+* [Yet Another Fish Framework](https://github.com/wa/wahoo)
 * [Directory-based environments for the Fish shell](https://github.com/idan/autoenvfish)
 * [Powerline prompt for Fish Shell in Fish Shell](https://github.com/0rax/fishline)
 * [Bookmark and jump to directories faster than a sailfish!](https://github.com/techwizrd/fishmarks)
