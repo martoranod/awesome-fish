@@ -35,6 +35,7 @@ A curated list of awesome fish frameworks, tools, guides and other stuff inspire
 ### Utilities
 
 * [Bookmark and jump to directories faster than a sailfish!](https://github.com/techwizrd/fishmarks)
+* [Make Bash utilities usable in Fish shell](https://github.com/edc/bass)
 * [Thin wrapper around chruby to make it work with the Fish shell](https://github.com/JeanMertz/chruby-fish)
 * [JSON parser in fishshell](https://github.com/bucaran/jon)
 
