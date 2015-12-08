@@ -38,6 +38,7 @@ A curated list of awesome fish frameworks, tools, guides and other stuff inspire
 * [Make Bash utilities usable in Fish shell](https://github.com/edc/bass)
 * [Thin wrapper around chruby to make it work with the Fish shell](https://github.com/JeanMertz/chruby-fish)
 * [Quickly go back to a parent directory up in your current working directory tree](https://github.com/0rax/fish-bd)
+* [Local GitHub Navigator](https://github.com/dickeyxxx/gh)
 * [JSON parser in fishshell](https://github.com/bucaran/jon)
 
 ### Other
